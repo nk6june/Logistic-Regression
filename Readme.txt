@@ -1,0 +1,1 @@
+This project is about the logistic regression in R
